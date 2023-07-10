@@ -3,3 +3,4 @@ sensor_client.egg-info
 dist
 build
 .DS_Store
+__pycache__
