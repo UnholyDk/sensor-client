@@ -1,0 +1,5 @@
+venv
+sensor_client.egg-info
+dist
+build
+.DS_Store
